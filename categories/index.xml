@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on little dog studos</title>
-    <link>https://github.com/herio5154/portfolio.github.io.git/categories/</link>
+    <link>https://herio5154.github.io/portfolio.github.io/categories/</link>
     <description>Recent content in Categories on little dog studos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jul 2024 11:29:19 +0930</lastBuildDate>
-    <atom:link href="https://github.com/herio5154/portfolio.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://herio5154.github.io/portfolio.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archive</title>
-      <link>https://github.com/herio5154/portfolio.github.io.git/categories/archive/</link>
+      <link>https://herio5154.github.io/portfolio.github.io/categories/archive/</link>
       <pubDate>Thu, 18 Jul 2024 11:29:19 +0930</pubDate>
-      <guid>https://github.com/herio5154/portfolio.github.io.git/categories/archive/</guid>
+      <guid>https://herio5154.github.io/portfolio.github.io/categories/archive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://herio5154.github.io/portfolio.github.io/categories/about/</link>
+      <pubDate>Tue, 16 Apr 2024 19:10:41 +0930</pubDate>
+      <guid>https://herio5154.github.io/portfolio.github.io/categories/about/</guid>
       <description></description>
     </item>
   </channel>
