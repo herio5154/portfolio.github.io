@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Free on little dog studos</title>
-    <link>https://herio5154.github.io/portfolio.github.io/tags/free/</link>
+    <link>http://localhost:1313/portfolio.github.io/tags/free/</link>
     <description>Recent content in Free on little dog studos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jul 2024 12:52:00 +0930</lastBuildDate>
-    <atom:link href="https://herio5154.github.io/portfolio.github.io/tags/free/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio.github.io/tags/free/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rural train station</title>
-      <link>https://herio5154.github.io/portfolio.github.io/posts/rural_train_station/</link>
+      <link>http://localhost:1313/portfolio.github.io/posts/rural_train_station/</link>
       <pubDate>Mon, 29 Jul 2024 12:52:00 +0930</pubDate>
-      <guid>https://herio5154.github.io/portfolio.github.io/posts/rural_train_station/</guid>
+      <guid>http://localhost:1313/portfolio.github.io/posts/rural_train_station/</guid>
       <description>small, abandoned rural train station, nestled deep within a serene and overgrown woodland. The station, once a bustling stop for local travellers, now stands as a hauntingly beautiful relic of the past, enveloped by the encroaching forest.</description>
     </item>
   </channel>
