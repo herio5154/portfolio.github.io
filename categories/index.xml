@@ -6,6 +6,7 @@
     <description>Recent content in Categories on little dog studos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 29 Jul 2024 12:52:00 +0930</lastBuildDate>
     <atom:link href="http://localhost:1313/portfolio.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,6 +14,22 @@
       <link>http://localhost:1313/portfolio.github.io/categories/archive/</link>
       <pubDate>Mon, 29 Jul 2024 12:52:00 +0930</pubDate>
       <guid>http://localhost:1313/portfolio.github.io/categories/archive/</guid>
+=======
+    <lastBuildDate>Thu, 18 Jul 2024 11:29:19 +0930</lastBuildDate>
+    <atom:link href="https://herio5154.github.io/portfolio.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archive</title>
+      <link>https://herio5154.github.io/portfolio.github.io/categories/archive/</link>
+      <pubDate>Thu, 18 Jul 2024 11:29:19 +0930</pubDate>
+      <guid>https://herio5154.github.io/portfolio.github.io/categories/archive/</guid>
+>>>>>>> parent of e7e6952 (update)
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://herio5154.github.io/portfolio.github.io/categories/about/</link>
+      <pubDate>Tue, 16 Apr 2024 19:10:41 +0930</pubDate>
+      <guid>https://herio5154.github.io/portfolio.github.io/categories/about/</guid>
       <description></description>
     </item>
   </channel>
