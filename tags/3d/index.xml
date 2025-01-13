@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3D on little dog studos</title>
-    <link>https://github.com/herio5154/herio5154.github.io/tags/3d/</link>
+    <link>https://herio5154.github.io/portfolio.github.io/tags/3d/</link>
     <description>Recent content in 3D on little dog studos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Nov 2024 15:30:47 +1030</lastBuildDate>
-    <atom:link href="https://github.com/herio5154/herio5154.github.io/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://herio5154.github.io/portfolio.github.io/tags/3d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Letters and icons</title>
-      <link>https://github.com/herio5154/herio5154.github.io/posts/letters_and_icons/</link>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/letters_and_icons/</link>
       <pubDate>Mon, 25 Nov 2024 15:30:47 +1030</pubDate>
-      <guid>https://github.com/herio5154/herio5154.github.io/posts/letters_and_icons/</guid>
-      <description>Create clear, stylish, and effective 3D signs and user interfaces with this versatile set of uppercase and lowercase letters (A-Z) and numbers (0-9). and (16)icons Designed with simplicity and performance in mind, these assets are perfect for a wide range of projects. Key Features&#xA;Godot store link itch.io store link </description>
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/letters_and_icons/</guid>
+      <description>Create clear, stylish, and effective 3D signs and user interfaces with this versatile set of uppercase and lowercase letters (A-Z) and numbers (0-9). and (16)icons Designed with simplicity and performance in mind, these assets are perfect for a wide range of projects. Key Features&#xA;Godot store link</description>
     </item>
   </channel>
 </rss>
