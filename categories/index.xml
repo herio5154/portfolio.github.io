@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on little dog studos</title>
+    <title>Categories on Litte dog studos portfolo</title>
     <link>https://herio5154.github.io/portfolio.github.io/categories/</link>
-    <description>Recent content in Categories on little dog studos</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Categories on Litte dog studos portfolo</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Feb 2025 13:06:34 +1030</lastBuildDate>
-    <atom:link href="https://herio5154.github.io/portfolio.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jan 2026 15:49:06 +1030</lastBuildDate><atom:link href="https://herio5154.github.io/portfolio.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Archive</title>
-      <link>https://herio5154.github.io/portfolio.github.io/categories/archive/</link>
-      <pubDate>Mon, 10 Feb 2025 13:06:34 +1030</pubDate>
-      <guid>https://herio5154.github.io/portfolio.github.io/categories/archive/</guid>
+      <title>assets</title>
+      <link>https://herio5154.github.io/portfolio.github.io/categories/assets/</link>
+      <pubDate>Fri, 02 Jan 2026 15:49:06 +1030</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/categories/assets/</guid>
       <description></description>
     </item>
+    
+    <item>
+      <title>portfolio</title>
+      <link>https://herio5154.github.io/portfolio.github.io/categories/portfolio/</link>
+      <pubDate>Mon, 04 Aug 2025 21:00:17 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/categories/portfolio/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

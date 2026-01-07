@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>game jam on Litte dog studos portfolo</title>
+    <link>https://herio5154.github.io/portfolio.github.io/tags/game-jam/</link>
+    <description>Recent content in game jam on Litte dog studos portfolo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Aug 2025 21:00:17 +0930</lastBuildDate><atom:link href="https://herio5154.github.io/portfolio.github.io/tags/game-jam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bird With a Knife</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/bird-with-a-knife/</link>
+      <pubDate>Mon, 04 Aug 2025 21:00:17 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/bird-with-a-knife/</guid>
+      <description>a game about spinning birds</description>
+    </item>
+    
+    <item>
+      <title>Youare corgi</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/youare_corgi/</link>
+      <pubDate>Sat, 04 Jul 2020 19:41:03 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/youare_corgi/</guid>
+      <description>i made it  as a joke entry in the a game jam</description>
+    </item>
+    
+    <item>
+      <title>The offce</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/the_offce/</link>
+      <pubDate>Sun, 18 Nov 2018 18:28:45 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/the_offce/</guid>
+      <description>some how this projet became some what inspried by benny and the ink machine</description>
+    </item>
+    
+    <item>
+      <title>Lets pong</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/letspong/</link>
+      <pubDate>Sat, 17 Mar 2018 14:24:04 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/letspong/</guid>
+      <description>frst person pong</description>
+    </item>
+    
+  </channel>
+</rss>

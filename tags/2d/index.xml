@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2D on Litte dog studos portfolo</title>
+    <link>https://herio5154.github.io/portfolio.github.io/tags/2d/</link>
+    <description>Recent content in 2D on Litte dog studos portfolo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Feb 2022 19:59:35 +0930</lastBuildDate><atom:link href="https://herio5154.github.io/portfolio.github.io/tags/2d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wogle</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/wogle/</link>
+      <pubDate>Fri, 18 Feb 2022 19:59:35 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/wogle/</guid>
+      <description>a word game i made</description>
+    </item>
+    
+  </channel>
+</rss>

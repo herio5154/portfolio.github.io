@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>portfolio on Litte dog studos portfolo</title>
+    <link>https://herio5154.github.io/portfolio.github.io/categories/portfolio/</link>
+    <description>Recent content in portfolio on Litte dog studos portfolo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Aug 2025 21:00:17 +0930</lastBuildDate><atom:link href="https://herio5154.github.io/portfolio.github.io/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bird With a Knife</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/bird-with-a-knife/</link>
+      <pubDate>Mon, 04 Aug 2025 21:00:17 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/bird-with-a-knife/</guid>
+      <description>a game about spinning birds</description>
+    </item>
+    
+    <item>
+      <title>Deer Game Demo</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/deergamedemo/</link>
+      <pubDate>Sun, 04 Aug 2024 21:00:17 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/deergamedemo/</guid>
+      <description>a little demo of a thing I been working on  its just a vertical slice   of a platformer</description>
+    </item>
+    
+    <item>
+      <title>Wogle</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/wogle/</link>
+      <pubDate>Fri, 18 Feb 2022 19:59:35 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/wogle/</guid>
+      <description>a word game i made</description>
+    </item>
+    
+    <item>
+      <title>Youare corgi</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/youare_corgi/</link>
+      <pubDate>Sat, 04 Jul 2020 19:41:03 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/youare_corgi/</guid>
+      <description>i made it  as a joke entry in the a game jam</description>
+    </item>
+    
+    <item>
+      <title>Chill in a Feld</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/chill-in-a-feld/</link>
+      <pubDate>Wed, 02 Oct 2019 19:22:20 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/chill-in-a-feld/</guid>
+      <description>its just a game to wach flowers and wnader around  lissing to nice music and chill</description>
+    </item>
+    
+    <item>
+      <title>Must love cat prototype</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/must_love_cat_prototype/</link>
+      <pubDate>Thu, 04 Jul 2019 18:56:02 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/must_love_cat_prototype/</guid>
+      <description>a liitle prototype for an SCP game befor got a better pipeline</description>
+    </item>
+    
+    <item>
+      <title>The offce</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/the_offce/</link>
+      <pubDate>Sun, 18 Nov 2018 18:28:45 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/the_offce/</guid>
+      <description>some how this projet became some what inspried by benny and the ink machine</description>
+    </item>
+    
+    <item>
+      <title>Lets pong</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/letspong/</link>
+      <pubDate>Sat, 17 Mar 2018 14:24:04 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/letspong/</guid>
+      <description>frst person pong</description>
+    </item>
+    
+    <item>
+      <title>Lighting Test</title>
+      <link>https://herio5154.github.io/portfolio.github.io/posts/lighting-test/</link>
+      <pubDate>Fri, 16 Jun 2017 13:52:45 +0930</pubDate>
+      
+      <guid>https://herio5154.github.io/portfolio.github.io/posts/lighting-test/</guid>
+      <description>This project was an early experiment to test out lighting setups and understand how skyboxes affect mood and depth in a 3D scene. I used it as a playground while learning to model trees in Blender and building basic environments in Unity.</description>
+    </item>
+    
+  </channel>
+</rss>
