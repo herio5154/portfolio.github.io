@@ -17,7 +17,7 @@
   .desktop { display: none; }
   .mobile { display: block; }
 }
-.mobile {
+.mobile-holder {
   display: flex;
   flex-direction: column;
   gap: 2rem;
